@@ -5,3 +5,4 @@ I am learning Data Science and this is all the projects i have worked on and man
         <td>Foo</td>
     </tr>
 </table>
+Use the `printf()` function.
