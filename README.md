@@ -27,7 +27,7 @@ Ive chosed the above test purposely to show how Word Embedding for words that ap
 > settings = {	'window_size': 2,'n': 3,'epochs': 200,'learning_rate': 0.01}
 
 #### Report -
-
+Similar Words to Word - `monday`
 | Cosine Similarity |Theta |Eculedian Distance|Distance
 |--|--|--|--|
 | monday |0.99|monday|0.0
